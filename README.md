@@ -493,7 +493,7 @@ Ainsi, il n'y a aucun risque que les modifications apportées aux fichiers soien
 
 ## La vidéo de démonstration (par Hervé Fontbonne) :
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=3mMtUV_WIP8)
+[![Video générateur de code](http://img.youtube.com/vi/3mMtUV_WIP8/0.jpg)](http://www.youtube.com/watch?v=3mMtUV_WIP8)
 
 
 
